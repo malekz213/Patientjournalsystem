@@ -15,5 +15,4 @@ Användaren kan registrera patienter, spara till fil, söka, sortera, lägga til
 
 ## Teknisk information
 - Språk: C
-- Inga externa bibliotek används
 - All data sparas i textfil (filnamn anges vid start)
